@@ -28,7 +28,7 @@ public class EjercicioCondicionales {
 			System.out.println("Es Primavera");
 		}else if (mes.equals("Julio") || mes.equals("Agosto") || mes.equals("Septiembre")) {
 			System.out.println("Es Verano");
-		}else if (mes.equals("Octubre" || mes.equals("Noviembre" || mes.equals("Diciembre"))))){
+		}else if (mes.equals("Octubre") || mes.equals("Noviembre") || mes.equals("Diciembre")){
 			System.out.println("Es Otoño");
 		}else {
 			System.out.println("Mes incorrecto");
